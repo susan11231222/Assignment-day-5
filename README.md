@@ -1,18 +1,18 @@
 SE-DAY5-Technical-Writing
 ****
 How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
--Language & Terminology
---Tech Experts: Use precise, industry-specific terminology without over-explaining basic concepts.
---Regular Folks: Simplify language, avoid jargon, and use analogies or everyday examples to explain complex ideas.
--Depth of Explanation
---Tech Experts: Dive deeper into details, optimizations, and edge cases. 
---Regular Folks: Focus on core concepts and practical applications.
--Presentation Style
---Tech Experts: Provide documentation, code snippets, and data-driven insights.
---Regular Folks: Use visuals, step-by-step guides, and interactive elements. Relate information to their daily experiences.
--Engagement & Interaction
---Tech Experts: Encourage discussions on advanced topics, provide resources for further exploration, and welcome deep-dive questions.
---Regular Folks: Use storytelling, real-life examples, and Q&A sessions to keep them engaged.
+Language & Terminology
+-Tech Experts: Use precise, industry-specific terminology without over-explaining basic concepts.
+-Regular Folks: Simplify language, avoid jargon, and use analogies or everyday examples to explain complex ideas.
+Depth of Explanation
+-Tech Experts: Dive deeper into details, optimizations, and edge cases. 
+-Regular Folks: Focus on core concepts and practical applications.
+Presentation Style
+-Tech Experts: Provide documentation, code snippets, and data-driven insights.
+-Regular Folks: Use visuals, step-by-step guides, and interactive elements. Relate information to their daily experiences.
+Engagement & Interaction
+-Tech Experts: Encourage discussions on advanced topics, provide resources for further exploration, and welcome deep-dive questions.
+-Regular Folks: Use storytelling, real-life examples, and Q&A sessions to keep them engaged.
 
 ***
 What are some strategies to tailor your content to different audience types?
